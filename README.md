@@ -1,0 +1,1 @@
+This is the code that accompanies "[Generate TypeScript Interfaces From .NET Assemblies Using T4 Templates]()" blog post .

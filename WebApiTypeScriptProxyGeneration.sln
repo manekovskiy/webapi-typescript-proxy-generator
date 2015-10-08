@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiProxyGenerator", "WebApiProxyGenerator\WebApiProxyGenerator.csproj", "{668EF7EF-3763-4D29-947E-62299D1EBDBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiService", "WebApiService\WebApiService.csproj", "{781787D6-984A-47F2-92F9-3746B54F1415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668EF7EF-3763-4D29-947E-62299D1EBDBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668EF7EF-3763-4D29-947E-62299D1EBDBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668EF7EF-3763-4D29-947E-62299D1EBDBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668EF7EF-3763-4D29-947E-62299D1EBDBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{781787D6-984A-47F2-92F9-3746B54F1415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{781787D6-984A-47F2-92F9-3746B54F1415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{781787D6-984A-47F2-92F9-3746B54F1415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{781787D6-984A-47F2-92F9-3746B54F1415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
