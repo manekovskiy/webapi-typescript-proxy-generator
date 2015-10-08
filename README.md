@@ -1,1 +1,1 @@
-This is the code that accompanies "[Generate TypeScript Interfaces From .NET Assemblies Using T4 Templates]()" blog post .
+This is the code that accompanies "[Generate TypeScript Interfaces From .NET Assemblies Using T4 Templates](http://amanek.com/generate-typescript-interfaces-from-net-assemblies-using-t4-templates/)" blog post .
